@@ -1,4 +1,4 @@
-style-guide-template/node_modules/
-style-guide-template/.cache/
-style-guide-template/build/
+node_modules
+.cache
+build
 *.css
