@@ -2,3 +2,10 @@
 
 $primary-font: 'Italianno', cursive;
 $secondary-font: 'Playfair Display', serif;
+
+.cd-typography-header{
+    font-family: $primary-font;
+}
+.cd-typography-contets{
+    font-family: $secondary-font;
+}
